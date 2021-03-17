@@ -23,6 +23,6 @@ android:
     - quemu-system-x86_64
     addons:
       sonarcloud:
-        organization: "jolutoher18"
+        organization: "alba-18"
         token:
-          secure: "68ac5cd714b1d0abac874917e76c6698f9645db1" # encrypted value of your token
+          secure: "6ae18116d6d08bdd8b06e47f6758931e56fae101" # encrypted value of your token
