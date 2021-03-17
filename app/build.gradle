@@ -32,10 +32,10 @@ android {
 
 sonarqube {
     properties {
-        property "sonar.projectKey", "jolutoher18_calidad-g6"
-        property "sonar.organization", "jolutoher18"
+        property "sonar.projectKey", "Alba-18_calidad-g6-1"
+        property "sonar.organization", "alba-18"
         property "sonar.host.url", "https://sonarcloud.io/"
-        property "sonar.login", "68ac5cd714b1d0abac874917e76c6698f9645db1"
+        property "sonar.login", "6ae18116d6d08bdd8b06e47f6758931e56fae101"
         property "sonar.branch.name", System.getenv("BRANCH")
     }
 }
